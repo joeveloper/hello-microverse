@@ -189,9 +189,9 @@ Github pages
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/joeveloper)
-- Twitter: [@twitterhandle](https://twitter.com/joeveloper)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yinka-olatunji-83aa36b5/)
+- GitHub: [@joeveloper](https://github.com/joeveloper)
+- Twitter: [@joeveloper](https://twitter.com/joeveloper)
+- LinkedIn: [Yinka Olatunji](https://www.linkedin.com/in/yinka-olatunji-83aa36b5/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -246,6 +246,10 @@ I would like to thank Mery (My coding partner) for the motivation during this pr
 - **What does this project stand for**
 
   - This is my first microverse project
+
+  - **Does this project have a database**
+
+  - No, this is a frontend only type project
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
