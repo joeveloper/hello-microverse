@@ -243,11 +243,11 @@ I would like to thank Mery (My coding partner) for the motivation during this pr
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **What does this project stand for**
+- **What does this project stand for?**
 
   - This is my first microverse project
 
-  - **Does this project have a database**
+- **Does this project have a database?**
 
   - No, this is a frontend only type project
 
